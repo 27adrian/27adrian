@@ -12,7 +12,6 @@
 
 ###
 
-<br clear="both">
 
 <h4 align="left">Soy Adrian Muñoz 😎 un apasionado por la tecnología y empezando en el mundo del desarrollo web</h4>
 
@@ -22,7 +21,6 @@
 
 ###
 
-<br clear="both">
 
 <img align="right" height="150" src="https://newsroom.cisco.com/c/dam/r/newsroom/en/us/migrated-assets/week-in-review_800x450_thumb_060719_animated-gif-1991825-1-0.gif"  />
 
