@@ -6,14 +6,13 @@
 
 ###
 
-<br clear="both">
 
 <h1 align="center">Hi!👋</h1>
 
 ###
 
 
-<h4 align="left">Soy Adrian Muñoz 😎 un apasionado por la tecnología y empezando en el mundo del desarrollo web</h4>
+<h4 align="left">Soy Adrian Muñoz Roncal 😎 soy un apasionado por la tecnología y empezando en el mundo del desarrollo web</h4>
 
 ###
 
